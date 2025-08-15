@@ -22,7 +22,8 @@ jobs:
           github_user_name: akshad110
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?color_snake=#39ff14&color_dots=#000000
+            dist/snake-dark.svg?color_snake=#ff0000&color_dots=#000000&color_bg=#000000
+
             
 
       - name: Publish to output branch
