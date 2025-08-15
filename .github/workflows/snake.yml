@@ -22,8 +22,8 @@ jobs:
           github_user_name: akshad110
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?color_snake=#00ff00&color_dots=#000000
-
+            dist/snake-dark.svg?color_snake=#39ff14&color_dots=#000000
+            
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
