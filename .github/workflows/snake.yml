@@ -22,7 +22,7 @@ jobs:
           github_user_name: akshad110
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg?palette=github-light
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
