@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshad Vengurlekar</h1>
-# 💫 About Me:
-I'm currently exploring 3d web and Ai/ml.<br>Ask me about mern stack and django related stuffs.
+<h2>💫 About Me:</h2>
+- Currently studying in 3rd year Btech-cse at Parul University, Gujarat, India.</br>
+- A passionate web developer.</br>
+- I'm currently exploring 3d web and AI/mL.</br>
+- Ask me about mern stack and django related stuffs.
 
 
 ## 🌐 Socials:
