@@ -113,12 +113,6 @@
 </p>
 
 ---
-## 🟢 My Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/akshad110" alt="Akshad's Github chart" />
-</p>
----
 
 <p align="center">
    Always Building. Always Learning. Always Shipping.
